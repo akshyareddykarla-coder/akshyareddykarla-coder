@@ -4,15 +4,11 @@
 
 ## 💻 About Me
 
-- 🌱 Currently learning Full Stack Development & Artificial Intelligence
-- 🧠 Exploring Machine Learning, Computer Vision, and Generative AI
-- 🏆 Hackathon enthusiast who loves solving real-world problems
-- 💡 Interested in Web Development, AI, Cybersecurity, and Automation
-- 🎯 Goal: Become a Full Stack AI Engineer & Tech Entrepreneur
-
-# 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
-
+-  Currently learning Full Stack Development & Artificial Intelligence
+-  Exploring Machine Learning, Computer Vision, and Generative AI
+-  Hackathon enthusiast who loves solving real-world problems
+-  Interested in Web Development, AI, Cybersecurity, and Automation
+-  Goal: Become a Full Stack AI Engineer & Tech Entrepreneur
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/K.AKSHYA REDDY) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:akshyareddykarla@gmail.com) 
